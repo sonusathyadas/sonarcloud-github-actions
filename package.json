@@ -12,7 +12,7 @@
     "dependencies": {
         "@aws-sdk/client-dynamodb": "^3.44.0",
         "@aws-sdk/util-dynamodb": "^3.45.0",
-        "express": "^4.17.2",
+        "express": "^4.17.3",
         "swagger-jsdoc": "^6.1.0",
         "swagger-ui-express": "^4.3.0"
     },
